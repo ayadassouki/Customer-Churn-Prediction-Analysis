@@ -60,11 +60,3 @@ The analysis provides valuable insights into customer churn at a telecom company
 
 **Project by:** Aya El-Dassouki
 
-
-# Write the markdown content to a file
-markdown_file_path = "/mnt/data/Customer_Churn_Analysis.md"
-with open(markdown_file_path, "w") as file:
-    file.write(markdown_content)
-
-# Return the file path for download
-markdown_file_path
